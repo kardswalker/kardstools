@@ -1,0 +1,40 @@
+[
+  {
+    "Type": "CardBackAsset",
+    "Name": "cardback_championship2020",
+    "Class": "UScriptClass'CardBackAsset'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "Name": "cardback_championship2020",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "A23A4FB548671376600706923A9BE93F",
+        "SourceString": "2020 Finals",
+        "LocalizedString": "2020 Finals"
+      },
+      "ItemSource": "EItemSource::SpecialItem",
+      "DeckCodeID": "0r",
+      "MainTexture": {
+        "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Kards_Set_-_Championship_2019_-_Finals_3.Kards_Set_-_Championship_2019_-_Finals_3",
+        "SubPathString": ""
+      },
+      "VariantTextures": [
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Kards_Set_-_Championship_2020_-_Finals_1.Kards_Set_-_Championship_2020_-_Finals_1",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Kards_Set_-_Championship_2020_-_Finals_2.Kards_Set_-_Championship_2020_-_Finals_2",
+          "SubPathString": ""
+        }
+      ],
+      "LabelOutlineColor": {
+        "R": 0.661458,
+        "G": 0.248163,
+        "B": 0.024116,
+        "A": 1.0,
+        "Hex": "D5892B"
+      }
+    }
+  }
+]

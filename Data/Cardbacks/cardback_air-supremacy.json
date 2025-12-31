@@ -1,0 +1,51 @@
+[
+  {
+    "Type": "CardBackAsset",
+    "Name": "cardback_air-supremacy",
+    "Class": "UScriptClass'CardBackAsset'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "Name": "cardback_air-supremacy",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "FCBAA0B44AF3FA74CB7862AF626ED8C9",
+        "SourceString": "Air Supremacy",
+        "LocalizedString": "Air Supremacy"
+      },
+      "ItemSource": "EItemSource::PurchasableItem",
+      "DeckCodeID": "1V",
+      "MainTexture": {
+        "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/t_air-supremacy_cardback_A.t_air-supremacy_cardback_A",
+        "SubPathString": ""
+      },
+      "VariantTextures": [
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/t_air-supremacy_cardback_B.t_air-supremacy_cardback_B",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/t_air-supremacy_cardback_C.t_air-supremacy_cardback_C",
+          "SubPathString": ""
+        }
+      ],
+      "icon": {
+        "AssetPathName": "/Game/Assets/Textures/StoreIcons/cardback/T_air-supremacy_shop_icon.T_air-supremacy_shop_icon",
+        "SubPathString": ""
+      },
+      "LabelBaseColor": {
+        "R": 0.076185,
+        "G": 0.088656,
+        "B": 0.052861,
+        "A": 0.0,
+        "Hex": "4E5441"
+      },
+      "LabelOutlineColor": {
+        "R": 0.799103,
+        "G": 0.701102,
+        "B": 0.40724,
+        "A": 1.0,
+        "Hex": "E7DAAB"
+      }
+    }
+  }
+]

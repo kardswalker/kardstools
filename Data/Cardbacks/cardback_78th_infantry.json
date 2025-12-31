@@ -1,0 +1,55 @@
+[
+  {
+    "Type": "CardBackAsset",
+    "Name": "cardback_78th_infantry",
+    "Class": "UScriptClass'CardBackAsset'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "Name": "cardback_78th_infantry",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "F07A6F1D4D256E628C1EF7AB03C7035E",
+        "SourceString": "78th Infantry",
+        "LocalizedString": "78th Infantry"
+      },
+      "ItemSource": "EItemSource::PurchasableItem",
+      "DeckCodeID": "28",
+      "rarity": "ERarityEnum::Rare",
+      "factions": [
+        "EFactionEnum::Britain"
+      ],
+      "MainTexture": {
+        "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/78th_infantry_a.78th_infantry_a",
+        "SubPathString": ""
+      },
+      "VariantTextures": [
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/78th_infantry_b.78th_infantry_b",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/78th_infantry_c.78th_infantry_c",
+          "SubPathString": ""
+        }
+      ],
+      "icon": {
+        "AssetPathName": "/Game/Assets/Textures/StoreIcons/cardback/78th_infnantry_icon.78th_infnantry_icon",
+        "SubPathString": ""
+      },
+      "LabelBaseColor": {
+        "R": 0.056128,
+        "G": 0.052861,
+        "B": 0.035601,
+        "A": 0.0,
+        "Hex": "434135"
+      },
+      "LabelOutlineColor": {
+        "R": 0.730461,
+        "G": 0.630757,
+        "B": 0.313989,
+        "A": 1.0,
+        "Hex": "DED098"
+      }
+    }
+  }
+]

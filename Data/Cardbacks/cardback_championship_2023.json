@@ -1,0 +1,47 @@
+[
+  {
+    "Type": "CardBackAsset",
+    "Name": "cardback_championship_2023",
+    "Class": "UScriptClass'CardBackAsset'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "Name": "cardback_championship_2023",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "B8157C474AF6EFDF0E84A480E70B78C9",
+        "SourceString": "2023 Championship",
+        "LocalizedString": "2023 Championship"
+      },
+      "ItemSource": "EItemSource::SpecialItem",
+      "DeckCodeID": "0t",
+      "MainTexture": {
+        "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Kards_Championship_2023_Ax512.Kards_Championship_2023_Ax512",
+        "SubPathString": ""
+      },
+      "VariantTextures": [
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Kards_Championship_2023_Bx512.Kards_Championship_2023_Bx512",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Kards_Championship_2023_Cx512.Kards_Championship_2023_Cx512",
+          "SubPathString": ""
+        }
+      ],
+      "LabelBaseColor": {
+        "R": 0.056128,
+        "G": 0.056128,
+        "B": 0.056128,
+        "A": 0.0,
+        "Hex": "434343"
+      },
+      "LabelOutlineColor": {
+        "R": 0.610496,
+        "G": 0.539479,
+        "B": 0.291771,
+        "A": 1.0,
+        "Hex": "CDC293"
+      }
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "Type": "CardBackAsset",
+    "Name": "cardback_champion",
+    "Class": "UScriptClass'CardBackAsset'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "Name": "cardback_champion",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "BBB68DEE40126993ED1D7B95B0B93DB8",
+        "SourceString": "KARDS Champion",
+        "LocalizedString": "KARDS Champion"
+      },
+      "ItemSource": "EItemSource::SpecialItem",
+      "DeckCodeID": "0o",
+      "MainTexture": {
+        "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/OCC_gold_a.OCC_gold_a",
+        "SubPathString": ""
+      },
+      "VariantTextures": [
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/OCC_gold_b.OCC_gold_b",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/OCC_gold_c.OCC_gold_c",
+          "SubPathString": ""
+        }
+      ],
+      "LabelBaseColor": {
+        "R": 0.056128,
+        "G": 0.056128,
+        "B": 0.056128,
+        "A": 0.0,
+        "Hex": "434343"
+      },
+      "LabelOutlineColor": {
+        "R": 0.610496,
+        "G": 0.539479,
+        "B": 0.291771,
+        "A": 1.0,
+        "Hex": "CDC293"
+      }
+    }
+  }
+]

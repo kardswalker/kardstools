@@ -1,0 +1,55 @@
+[
+  {
+    "Type": "CardBackAsset",
+    "Name": "cardback_87th_division",
+    "Class": "UScriptClass'CardBackAsset'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "Name": "cardback_87th_division",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "92B3503543A839DB2B124187F10DDE52",
+        "SourceString": "87th Division",
+        "LocalizedString": "87th Division"
+      },
+      "ItemSource": "EItemSource::PurchasableItem",
+      "DeckCodeID": "1G",
+      "rarity": "ERarityEnum::Rare",
+      "factions": [
+        "EFactionEnum::Germany"
+      ],
+      "MainTexture": {
+        "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/germany_final_Ax512.germany_final_Ax512",
+        "SubPathString": ""
+      },
+      "VariantTextures": [
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/germany_final_Bx512.germany_final_Bx512",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/germany_final_Cx512.germany_final_Cx512",
+          "SubPathString": ""
+        }
+      ],
+      "icon": {
+        "AssetPathName": "/Game/Assets/Textures/StoreIcons/cardback/cardback_87th_division_icon.cardback_87th_division_icon",
+        "SubPathString": ""
+      },
+      "LabelBaseColor": {
+        "R": 0.076185,
+        "G": 0.088656,
+        "B": 0.052861,
+        "A": 0.0,
+        "Hex": "4E5441"
+      },
+      "LabelOutlineColor": {
+        "R": 0.799103,
+        "G": 0.701102,
+        "B": 0.40724,
+        "A": 1.0,
+        "Hex": "E7DAAB"
+      }
+    }
+  }
+]

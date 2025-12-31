@@ -1,0 +1,51 @@
+[
+  {
+    "Type": "CardBackAsset",
+    "Name": "cardback_502_pir",
+    "Class": "UScriptClass'CardBackAsset'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "Name": "cardback_502_pir",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "AAF4FD9D4DE618334B5B9698FC5092AC",
+        "SourceString": "502nd PIR",
+        "LocalizedString": "502nd PIR"
+      },
+      "ItemSource": "EItemSource::PurchasableItem",
+      "DeckCodeID": "08",
+      "rarity": "ERarityEnum::Rare",
+      "factions": [
+        "EFactionEnum::USA"
+      ],
+      "MainTexture": {
+        "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/502nd_pir_cardback_a.502nd_pir_cardback_a",
+        "SubPathString": ""
+      },
+      "VariantTextures": [
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/502nd_pir_cardback_b.502nd_pir_cardback_b",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/502nd_pir_cardback_c.502nd_pir_cardback_c",
+          "SubPathString": ""
+        }
+      ],
+      "LabelBaseColor": {
+        "R": 0.076185,
+        "G": 0.078187,
+        "B": 0.026241,
+        "A": 0.0,
+        "Hex": "4E4F2D"
+      },
+      "LabelOutlineColor": {
+        "R": 0.686685,
+        "G": 0.617207,
+        "B": 0.351533,
+        "A": 1.0,
+        "Hex": "D8CEA0"
+      }
+    }
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "Type": "CardBackAsset",
+    "Name": "cardback_6th_armored_division",
+    "Class": "UScriptClass'CardBackAsset'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "Name": "cardback_6th_armored_division",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "B6E7790A4C5B9763A86C3584183215C7",
+        "SourceString": "British 6th Armored Division",
+        "LocalizedString": "British 6th Armored Division"
+      },
+      "ItemSource": "EItemSource::PurchasableItem",
+      "DeckCodeID": "0a",
+      "factions": [
+        "EFactionEnum::Britain"
+      ],
+      "MainTexture": {
+        "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Kards-Set-1-GBR-A.Kards-Set-1-GBR-A",
+        "SubPathString": ""
+      },
+      "VariantTextures": [
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Kards-Set-1-GBR-A.Kards-Set-1-GBR-A",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Kards-Set-1-GBR-B.Kards-Set-1-GBR-B",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Kards-Set-1-GBR-C.Kards-Set-1-GBR-C",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Kards-Set-1-GBR-D.Kards-Set-1-GBR-D",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Kards-Set-1-GBR-E.Kards-Set-1-GBR-E",
+          "SubPathString": ""
+        }
+      ],
+      "icon": {
+        "AssetPathName": "/Game/Assets/Textures/StoreIcons/cardback/cardback-national_britain.cardback-national_britain",
+        "SubPathString": ""
+      },
+      "LabelBaseColor": {
+        "R": 0.002428,
+        "G": 0.002428,
+        "B": 0.002428,
+        "A": 1.0,
+        "Hex": "080808"
+      },
+      "LabelOutlineColor": {
+        "R": 0.799103,
+        "G": 0.708376,
+        "B": 0.417885,
+        "A": 1.0,
+        "Hex": "E7DBAD"
+      }
+    }
+  }
+]

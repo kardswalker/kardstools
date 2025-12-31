@@ -1,0 +1,55 @@
+[
+  {
+    "Type": "CardBackAsset",
+    "Name": "cardback_9th_airforce",
+    "Class": "UScriptClass'CardBackAsset'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "Name": "cardback_9th_airforce",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "DA72925543962C5DFDCCEC93B2224B90",
+        "SourceString": "9th Airforce",
+        "LocalizedString": "9th Airforce"
+      },
+      "ItemSource": "EItemSource::PurchasableItem",
+      "DeckCodeID": "27",
+      "rarity": "ERarityEnum::Rare",
+      "factions": [
+        "EFactionEnum::USA"
+      ],
+      "MainTexture": {
+        "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/9th_airforce_a.9th_airforce_a",
+        "SubPathString": ""
+      },
+      "VariantTextures": [
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/9th_airforce_b.9th_airforce_b",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/9th_airforce_c.9th_airforce_c",
+          "SubPathString": ""
+        }
+      ],
+      "icon": {
+        "AssetPathName": "/Game/Assets/Textures/StoreIcons/cardback/9th_airforce_icon.9th_airforce_icon",
+        "SubPathString": ""
+      },
+      "LabelBaseColor": {
+        "R": 0.056128,
+        "G": 0.052861,
+        "B": 0.035601,
+        "A": 0.0,
+        "Hex": "434135"
+      },
+      "LabelOutlineColor": {
+        "R": 0.730461,
+        "G": 0.630757,
+        "B": 0.313989,
+        "A": 1.0,
+        "Hex": "DED098"
+      }
+    }
+  }
+]

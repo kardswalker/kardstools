@@ -1,0 +1,50 @@
+[
+  {
+    "Type": "CardBackAsset",
+    "Name": "cardback_507th_pir",
+    "Class": "UScriptClass'CardBackAsset'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "Name": "cardback_507th_pir",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "5DCAEAA641A952B27C59EA9362AC9BE6",
+        "SourceString": "507th PIR",
+        "LocalizedString": "507th PIR"
+      },
+      "ItemSource": "EItemSource::RewardedItem",
+      "DeckCodeID": "09",
+      "factions": [
+        "EFactionEnum::USA"
+      ],
+      "MainTexture": {
+        "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/507th_vfinal.507th_vfinal",
+        "SubPathString": ""
+      },
+      "VariantTextures": [
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/507th_vfinal2.507th_vfinal2",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/507th_vfinal3.507th_vfinal3",
+          "SubPathString": ""
+        }
+      ],
+      "LabelBaseColor": {
+        "R": 0.009721,
+        "G": 0.031896,
+        "B": 0.107023,
+        "A": 0.0,
+        "Hex": "19325C"
+      },
+      "LabelOutlineColor": {
+        "R": 0.799103,
+        "G": 0.708376,
+        "B": 0.417885,
+        "A": 1.0,
+        "Hex": "E7DBAD"
+      }
+    }
+  }
+]

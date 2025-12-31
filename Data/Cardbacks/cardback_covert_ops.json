@@ -1,0 +1,44 @@
+[
+  {
+    "Type": "CardBackAsset",
+    "Name": "cardback_covert_ops",
+    "Class": "UScriptClass'CardBackAsset'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "Name": "cardback_covert_ops",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "A9723BAE43227B3F126F11886FC1BD8E",
+        "SourceString": "Kards Covert Operations",
+        "LocalizedString": "Kards Covert Operations"
+      },
+      "ItemSource": "EItemSource::PurchasableItem",
+      "DeckCodeID": "0x",
+      "MainTexture": {
+        "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Covert_cardback_A_512x512.Covert_cardback_A_512x512",
+        "SubPathString": ""
+      },
+      "VariantTextures": [
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Covert_cardback_B_512x512.Covert_cardback_B_512x512",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Covert_cardback_C_512x512.Covert_cardback_C_512x512",
+          "SubPathString": ""
+        }
+      ],
+      "icon": {
+        "AssetPathName": "/Game/Assets/Textures/StoreIcons/cardback/Covert_cardback_icon.Covert_cardback_icon",
+        "SubPathString": ""
+      },
+      "LabelBaseColor": {
+        "R": 0.097548,
+        "G": 0.137236,
+        "B": 0.161458,
+        "A": 0.0,
+        "Hex": "586770"
+      }
+    }
+  }
+]

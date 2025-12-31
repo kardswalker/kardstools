@@ -1,0 +1,33 @@
+[
+  {
+    "Type": "CardBackAsset",
+    "Name": "cardback_dday_2023",
+    "Class": "UScriptClass'CardBackAsset'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "Name": "cardback_dday_2023",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "B9962CBF467E55BAEADBCCB7C8F2A3EF",
+        "SourceString": "D-Day",
+        "LocalizedString": "D-Day"
+      },
+      "ItemSource": "EItemSource::PurchasableItem",
+      "DeckCodeID": "0z",
+      "MainTexture": {
+        "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/ddayA.ddayA",
+        "SubPathString": ""
+      },
+      "VariantTextures": [
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/ddayB.ddayB",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/ddayC.ddayC",
+          "SubPathString": ""
+        }
+      ]
+    }
+  }
+]

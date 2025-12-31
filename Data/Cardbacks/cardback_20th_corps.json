@@ -1,0 +1,54 @@
+[
+  {
+    "Type": "CardBackAsset",
+    "Name": "cardback_20th_corps",
+    "Class": "UScriptClass'CardBackAsset'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "Name": "cardback_20th_corps",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "B353AEC7417963E4071FD5805F7D48AC",
+        "SourceString": "20th Corps",
+        "LocalizedString": "20th Corps"
+      },
+      "ItemSource": "EItemSource::PurchasableItem",
+      "DeckCodeID": "03",
+      "factions": [
+        "EFactionEnum::USA"
+      ],
+      "MainTexture": {
+        "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/USA_skirmish.USA_skirmish",
+        "SubPathString": ""
+      },
+      "VariantTextures": [
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/USA_skirmish2.USA_skirmish2",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/USA_skirmish3.USA_skirmish3",
+          "SubPathString": ""
+        }
+      ],
+      "icon": {
+        "AssetPathName": "/Game/Assets/Textures/StoreIcons/cardback/cardback_US_icon.cardback_US_icon",
+        "SubPathString": ""
+      },
+      "LabelBaseColor": {
+        "R": 0.076185,
+        "G": 0.088656,
+        "B": 0.052861,
+        "A": 0.0,
+        "Hex": "4E5441"
+      },
+      "LabelOutlineColor": {
+        "R": 0.799103,
+        "G": 0.701102,
+        "B": 0.40724,
+        "A": 1.0,
+        "Hex": "E7DAAB"
+      }
+    }
+  }
+]

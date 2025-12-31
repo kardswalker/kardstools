@@ -1,0 +1,51 @@
+[
+  {
+    "Type": "CardBackAsset",
+    "Name": "cardback_27th_armored_brigade",
+    "Class": "UScriptClass'CardBackAsset'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "Name": "cardback_27th_armored_brigade",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "07B6D8BE425533FDDF664E92BAA1855D",
+        "SourceString": "27th Armored Brigade",
+        "LocalizedString": "27th Armored Brigade"
+      },
+      "ItemSource": "EItemSource::PurchasableItem",
+      "DeckCodeID": "1S",
+      "rarity": "ERarityEnum::Rare",
+      "factions": [
+        "EFactionEnum::Britain"
+      ],
+      "MainTexture": {
+        "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/27th_armored_brigade_a_512.27th_armored_brigade_a_512",
+        "SubPathString": ""
+      },
+      "VariantTextures": [
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/27th_armored_brigade_b_512.27th_armored_brigade_b_512",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/27th_armored_brigade_c_512.27th_armored_brigade_c_512",
+          "SubPathString": ""
+        }
+      ],
+      "LabelBaseColor": {
+        "R": 0.076185,
+        "G": 0.088656,
+        "B": 0.052861,
+        "A": 0.0,
+        "Hex": "4E5441"
+      },
+      "LabelOutlineColor": {
+        "R": 0.799103,
+        "G": 0.701102,
+        "B": 0.40724,
+        "A": 1.0,
+        "Hex": "E7DAAB"
+      }
+    }
+  }
+]

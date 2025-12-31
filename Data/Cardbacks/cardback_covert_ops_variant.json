@@ -1,0 +1,44 @@
+[
+  {
+    "Type": "CardBackAsset",
+    "Name": "cardback_covert_ops_variant",
+    "Class": "UScriptClass'CardBackAsset'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "Name": "cardback_covert_ops_variant",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "171856C949FAF5916DA45E8CA4D26F16",
+        "SourceString": "Kards Covert Operations 2",
+        "LocalizedString": "Kards Covert Operations 2"
+      },
+      "ItemSource": "EItemSource::PurchasableItem",
+      "DeckCodeID": "0y",
+      "MainTexture": {
+        "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Covert_cardback_Reverse_A_512x512.Covert_cardback_Reverse_A_512x512",
+        "SubPathString": ""
+      },
+      "VariantTextures": [
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Covert_cardback_Reverse_B_512x512.Covert_cardback_Reverse_B_512x512",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Covert_cardback_Reverse_C_512x512.Covert_cardback_Reverse_C_512x512",
+          "SubPathString": ""
+        }
+      ],
+      "icon": {
+        "AssetPathName": "/Game/Assets/Textures/StoreIcons/cardback/Covert_cardback_v2_icon.Covert_cardback_v2_icon",
+        "SubPathString": ""
+      },
+      "LabelBaseColor": {
+        "R": 0.097548,
+        "G": 0.137236,
+        "B": 0.161458,
+        "A": 0.0,
+        "Hex": "586770"
+      }
+    }
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "Type": "CardBackAsset",
+    "Name": "cardback_breakthrough",
+    "Class": "UScriptClass'CardBackAsset'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "Name": "cardback_breakthrough",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "25CE5B5B44D118360B634CAA4D470507",
+        "SourceString": "Kards Breakthrough",
+        "LocalizedString": "Kards Breakthrough"
+      },
+      "ItemSource": "EItemSource::PurchasableItem",
+      "DeckCodeID": "0i",
+      "MainTexture": {
+        "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Breakthrougb_color_po2.Breakthrougb_color_po2",
+        "SubPathString": ""
+      },
+      "VariantTextures": [
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Breakthrough_a_color_po2.Breakthrough_a_color_po2",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Breakthrough_c_color_po2.Breakthrough_c_color_po2",
+          "SubPathString": ""
+        }
+      ],
+      "icon": {
+        "AssetPathName": "/Game/Assets/Textures/StoreIcons/cardback/cardback_breakthrough.cardback_breakthrough",
+        "SubPathString": ""
+      },
+      "LabelBaseColor": {
+        "R": 0.029557,
+        "G": 0.068478,
+        "B": 0.076185,
+        "A": 0.0,
+        "Hex": "304A4E"
+      },
+      "LabelOutlineColor": {
+        "R": 0.73791,
+        "G": 0.62396,
+        "B": 0.323143,
+        "A": 1.0,
+        "Hex": "DFCF9A"
+      }
+    }
+  }
+]

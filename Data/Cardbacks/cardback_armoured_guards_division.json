@@ -1,0 +1,54 @@
+[
+  {
+    "Type": "CardBackAsset",
+    "Name": "cardback_armoured_guards_division",
+    "Class": "UScriptClass'CardBackAsset'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "Name": "cardback_armoured_guards_division",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "66C127614341A369489B31AA2C421F85",
+        "SourceString": "Armoured Guards Division",
+        "LocalizedString": "Armoured Guards Division"
+      },
+      "ItemSource": "EItemSource::PurchasableItem",
+      "DeckCodeID": "0f",
+      "factions": [
+        "EFactionEnum::Britain"
+      ],
+      "MainTexture": {
+        "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Armoured_Guards_Division_Ax512.Armoured_Guards_Division_Ax512",
+        "SubPathString": ""
+      },
+      "VariantTextures": [
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Armoured_Guards_Division_Bx512.Armoured_Guards_Division_Bx512",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Armoured_Guards_Division_Cx512.Armoured_Guards_Division_Cx512",
+          "SubPathString": ""
+        }
+      ],
+      "icon": {
+        "AssetPathName": "/Game/Assets/Textures/StoreIcons/cardback/Armoured_Guards_Division_simplified_icon.Armoured_Guards_Division_simplified_icon",
+        "SubPathString": ""
+      },
+      "LabelBaseColor": {
+        "R": 0.056128,
+        "G": 0.052861,
+        "B": 0.035601,
+        "A": 0.0,
+        "Hex": "434135"
+      },
+      "LabelOutlineColor": {
+        "R": 0.730461,
+        "G": 0.630757,
+        "B": 0.313989,
+        "A": 1.0,
+        "Hex": "DED098"
+      }
+    }
+  }
+]

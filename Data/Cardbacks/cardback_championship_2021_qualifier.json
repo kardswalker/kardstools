@@ -1,0 +1,51 @@
+[
+  {
+    "Type": "CardBackAsset",
+    "Name": "cardback_championship_2021_qualifier",
+    "Class": "UScriptClass'CardBackAsset'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "Name": "cardback_championship_2021_qualifier",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "A90A96E54C86A8081E8256BC20F755F9",
+        "SourceString": "2021 Qualifier",
+        "LocalizedString": "2021 Qualifier"
+      },
+      "ItemSource": "EItemSource::SpecialItem",
+      "DeckCodeID": "0v",
+      "MainTexture": {
+        "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/championship_2021_a_po2.championship_2021_a_po2",
+        "SubPathString": ""
+      },
+      "VariantTextures": [
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/championship_2021_a_po2.championship_2021_a_po2",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/championship_2021_b_po2.championship_2021_b_po2",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/championship_2021_c_po2.championship_2021_c_po2",
+          "SubPathString": ""
+        }
+      ],
+      "LabelBaseColor": {
+        "R": 0.040915,
+        "G": 0.022174,
+        "B": 0.008568,
+        "A": 0.0,
+        "Hex": "392917"
+      },
+      "LabelOutlineColor": {
+        "R": 0.730461,
+        "G": 0.651406,
+        "B": 0.332452,
+        "A": 1.0,
+        "Hex": "DED39C"
+      }
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "Type": "CardBackAsset",
+    "Name": "cardback_beta",
+    "Class": "UScriptClass'CardBackAsset'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "Name": "cardback_beta",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "672A99D4445889C43185A4BBF4CC5AE2",
+        "SourceString": "Beta Veteran",
+        "LocalizedString": "Beta Veteran"
+      },
+      "ItemSource": "EItemSource::SpecialItem",
+      "DeckCodeID": "0h",
+      "MainTexture": {
+        "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/BasicBetaA.BasicBetaA",
+        "SubPathString": ""
+      },
+      "VariantTextures": [
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/BasicBetaB.BasicBetaB",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/BasicBetaC.BasicBetaC",
+          "SubPathString": ""
+        }
+      ],
+      "LabelBaseColor": {
+        "R": 0.084376,
+        "G": 0.082283,
+        "B": 0.064803,
+        "A": 0.0,
+        "Hex": "525148"
+      },
+      "LabelOutlineColor": {
+        "R": 0.752942,
+        "G": 0.64448,
+        "B": 0.309469,
+        "A": 1.0,
+        "Hex": "E1D297"
+      }
+    }
+  }
+]

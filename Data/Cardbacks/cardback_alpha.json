@@ -1,0 +1,47 @@
+[
+  {
+    "Type": "CardBackAsset",
+    "Name": "cardback_alpha",
+    "Class": "UScriptClass'CardBackAsset'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "Name": "cardback_alpha",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "597F9248490E11B32ADA15A366496FDC",
+        "SourceString": "Alpha Veteran",
+        "LocalizedString": "Alpha Veteran"
+      },
+      "ItemSource": "EItemSource::SpecialItem",
+      "DeckCodeID": "0e",
+      "MainTexture": {
+        "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/AlphaA.AlphaA",
+        "SubPathString": ""
+      },
+      "VariantTextures": [
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/AlphaB.AlphaB",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/AlphaC.AlphaC",
+          "SubPathString": ""
+        }
+      ],
+      "LabelBaseColor": {
+        "R": 0.300544,
+        "G": 0.274677,
+        "B": 0.215861,
+        "A": 0.0,
+        "Hex": "958F80"
+      },
+      "LabelOutlineColor": {
+        "R": 0.775822,
+        "G": 0.651406,
+        "B": 0.332452,
+        "A": 1.0,
+        "Hex": "E4D39C"
+      }
+    }
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "Type": "CardBackAsset",
+    "Name": "cardback_championship2020_2",
+    "Class": "UScriptClass'CardBackAsset'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "Name": "cardback_championship2020_2",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "5E7725334DC0E2C4999A679249750849",
+        "SourceString": "2020 Top 16",
+        "LocalizedString": "2020 Top 16"
+      },
+      "ItemSource": "EItemSource::SpecialItem",
+      "DeckCodeID": "0s",
+      "MainTexture": {
+        "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Kards_Set_-_Championship_2020_a.Kards_Set_-_Championship_2020_a",
+        "SubPathString": ""
+      },
+      "VariantTextures": [
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Kards_Set_-_Championship_2020_b.Kards_Set_-_Championship_2020_b",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Kards_Set_-_Championship_2020_c.Kards_Set_-_Championship_2020_c",
+          "SubPathString": ""
+        }
+      ],
+      "LabelOutlineColor": {
+        "R": 0.661458,
+        "G": 0.248163,
+        "B": 0.024116,
+        "A": 1.0,
+        "Hex": "D5892B"
+      }
+    }
+  }
+]

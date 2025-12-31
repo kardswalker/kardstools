@@ -1,0 +1,62 @@
+[
+  {
+    "Type": "CardBackAsset",
+    "Name": "cardback_british_third_armored",
+    "Class": "UScriptClass'CardBackAsset'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "Name": "cardback_british_third_armored",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "4190183548F8CE6152F1FF97046D277C",
+        "SourceString": "3rd Armored",
+        "LocalizedString": "3rd Armored"
+      },
+      "ItemSource": "EItemSource::RewardedItem",
+      "DeckCodeID": "0l",
+      "factions": [
+        "EFactionEnum::Britain"
+      ],
+      "MainTexture": {
+        "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Kards-Set-2-GBR-A.Kards-Set-2-GBR-A",
+        "SubPathString": ""
+      },
+      "VariantTextures": [
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Kards-Set-2-GBR-A.Kards-Set-2-GBR-A",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Kards-Set-2-GBR-B.Kards-Set-2-GBR-B",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Kards-Set-2-GBR-C.Kards-Set-2-GBR-C",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Kards-Set-2-GBR-D.Kards-Set-2-GBR-D",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Kards-Set-2-GBR-E.Kards-Set-2-GBR-E",
+          "SubPathString": ""
+        }
+      ],
+      "LabelBaseColor": {
+        "R": 0.254152,
+        "G": 0.23074,
+        "B": 0.138432,
+        "A": 0.0,
+        "Hex": "8A8468"
+      },
+      "LabelOutlineColor": {
+        "R": 0.799103,
+        "G": 0.708376,
+        "B": 0.417885,
+        "A": 1.0,
+        "Hex": "E7DBAD"
+      }
+    }
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "Type": "CardBackAsset",
+    "Name": "cardback_25th-Infanterie-Division",
+    "Class": "UScriptClass'CardBackAsset'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "Name": "cardback_25th-infanterie-division",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "84AE455C4E7F0A18C85C46A848B75F81",
+        "SourceString": "25th Infanterie Division",
+        "LocalizedString": "25th Infanterie Division"
+      },
+      "ItemSource": "EItemSource::PurchasableItem",
+      "DeckCodeID": "1X",
+      "rarity": "ERarityEnum::Rare",
+      "factions": [
+        "EFactionEnum::Germany"
+      ],
+      "MainTexture": {
+        "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/T_cardback_Ger_25th_Infanterie-Division_A.T_cardback_Ger_25th_Infanterie-Division_A",
+        "SubPathString": ""
+      },
+      "VariantTextures": [
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/T_cardback_Ger_25th_Infanterie-Division_B.T_cardback_Ger_25th_Infanterie-Division_B",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/T_cardback_Ger_25th_Infanterie-Division_C.T_cardback_Ger_25th_Infanterie-Division_C",
+          "SubPathString": ""
+        }
+      ],
+      "icon": {
+        "AssetPathName": "/Game/Assets/Textures/StoreIcons/cardback/t_25th-infanterie-division_icon.t_25th-infanterie-division_icon",
+        "SubPathString": ""
+      },
+      "LabelBaseColor": {
+        "R": 0.076185,
+        "G": 0.088656,
+        "B": 0.052861,
+        "A": 0.0,
+        "Hex": "4E5441"
+      },
+      "LabelOutlineColor": {
+        "R": 0.799103,
+        "G": 0.701102,
+        "B": 0.40724,
+        "A": 1.0,
+        "Hex": "E7DAAB"
+      }
+    }
+  }
+]

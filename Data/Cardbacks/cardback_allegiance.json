@@ -1,0 +1,44 @@
+[
+  {
+    "Type": "CardBackAsset",
+    "Name": "cardback_allegiance",
+    "Class": "UScriptClass'CardBackAsset'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "Name": "cardback_allegiance",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "80C852554618F0DCD37F0EB8D3F6EBF8",
+        "SourceString": "Kards Allegiance",
+        "LocalizedString": "Kards Allegiance"
+      },
+      "ItemSource": "EItemSource::PurchasableItem",
+      "DeckCodeID": "0d",
+      "MainTexture": {
+        "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Allegiance_set_card_back_e.Allegiance_set_card_back_e",
+        "SubPathString": ""
+      },
+      "VariantTextures": [
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Allegiance_set_card_back_f.Allegiance_set_card_back_f",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Allegiance_set_card_back_g.Allegiance_set_card_back_g",
+          "SubPathString": ""
+        }
+      ],
+      "icon": {
+        "AssetPathName": "/Game/Assets/Textures/StoreIcons/cardback/cardback_allegiance.cardback_allegiance",
+        "SubPathString": ""
+      },
+      "LabelBaseColor": {
+        "R": 0.097548,
+        "G": 0.137236,
+        "B": 0.161458,
+        "A": 0.0,
+        "Hex": "586770"
+      }
+    }
+  }
+]

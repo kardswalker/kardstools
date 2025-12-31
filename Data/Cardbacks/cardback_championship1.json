@@ -1,0 +1,51 @@
+[
+  {
+    "Type": "CardBackAsset",
+    "Name": "cardback_championship1",
+    "Class": "UScriptClass'CardBackAsset'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "Name": "cardback_championship1",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "C953AD584954919211622D933A36B599",
+        "SourceString": "2019 Qualifier",
+        "LocalizedString": "2019 Qualifier"
+      },
+      "ItemSource": "EItemSource::SpecialItem",
+      "DeckCodeID": "0p",
+      "MainTexture": {
+        "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Kards_Set_-_Championship_2019_a2.Kards_Set_-_Championship_2019_a2",
+        "SubPathString": ""
+      },
+      "VariantTextures": [
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Kards_Set_-_Championship_2019_a2.Kards_Set_-_Championship_2019_a2",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Kards_Set_-_Championship_2019_b2.Kards_Set_-_Championship_2019_b2",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Kards_Set_-_Championship_2019_c2_png.Kards_Set_-_Championship_2019_c2_png",
+          "SubPathString": ""
+        }
+      ],
+      "LabelBaseColor": {
+        "R": 0.040915,
+        "G": 0.022174,
+        "B": 0.008568,
+        "A": 0.0,
+        "Hex": "392917"
+      },
+      "LabelOutlineColor": {
+        "R": 0.730461,
+        "G": 0.651406,
+        "B": 0.332452,
+        "A": 1.0,
+        "Hex": "DED39C"
+      }
+    }
+  }
+]

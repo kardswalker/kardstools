@@ -1,0 +1,47 @@
+[
+  {
+    "Type": "CardBackAsset",
+    "Name": "cardback_championship_2024",
+    "Class": "UScriptClass'CardBackAsset'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "Name": "cardback_championship_2024",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "0860A9B6465343B285E857B9220A2994",
+        "SourceString": "2024 Championship",
+        "LocalizedString": "2024 Championship"
+      },
+      "ItemSource": "EItemSource::SpecialItem",
+      "DeckCodeID": "0u",
+      "MainTexture": {
+        "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Kards_Set_-_Championship_2024_a.Kards_Set_-_Championship_2024_a",
+        "SubPathString": ""
+      },
+      "VariantTextures": [
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Kards_Set_-_Championship_2024_b.Kards_Set_-_Championship_2024_b",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Kards_Set_-_Championship_2024_c.Kards_Set_-_Championship_2024_c",
+          "SubPathString": ""
+        }
+      ],
+      "LabelBaseColor": {
+        "R": 0.040915,
+        "G": 0.022174,
+        "B": 0.008568,
+        "A": 0.0,
+        "Hex": "392917"
+      },
+      "LabelOutlineColor": {
+        "R": 0.730461,
+        "G": 0.651406,
+        "B": 0.332452,
+        "A": 1.0,
+        "Hex": "DED39C"
+      }
+    }
+  }
+]

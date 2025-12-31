@@ -1,0 +1,50 @@
+[
+  {
+    "Type": "CardBackAsset",
+    "Name": "cardback_britain_veteran",
+    "Class": "UScriptClass'CardBackAsset'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "Name": "cardback_britain_veteran",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "A363C5E04EDEA930DB7B598ACCD0538B",
+        "SourceString": "Britain Veteran",
+        "LocalizedString": "Britain Veteran"
+      },
+      "ItemSource": "EItemSource::RewardedItem",
+      "DeckCodeID": "0k",
+      "factions": [
+        "EFactionEnum::Britain"
+      ],
+      "MainTexture": {
+        "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/BritBasicExtraA.BritBasicExtraA",
+        "SubPathString": ""
+      },
+      "VariantTextures": [
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/BritBasicExtraB.BritBasicExtraB",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/BritBasicExtraC.BritBasicExtraC",
+          "SubPathString": ""
+        }
+      ],
+      "LabelBaseColor": {
+        "R": 0.084376,
+        "G": 0.07036,
+        "B": 0.030713,
+        "A": 0.0,
+        "Hex": "524B31"
+      },
+      "LabelOutlineColor": {
+        "R": 0.752942,
+        "G": 0.64448,
+        "B": 0.361307,
+        "A": 1.0,
+        "Hex": "E1D2A2"
+      }
+    }
+  }
+]

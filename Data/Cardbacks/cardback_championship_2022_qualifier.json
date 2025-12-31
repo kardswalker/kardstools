@@ -1,0 +1,47 @@
+[
+  {
+    "Type": "CardBackAsset",
+    "Name": "cardback_championship_2022_qualifier",
+    "Class": "UScriptClass'CardBackAsset'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "Name": "cardback_championship_2022_qualifier",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "11AE3E4A4BCFD792AC6F88919A8D435B",
+        "SourceString": "2022 Qualifier",
+        "LocalizedString": "2022 Qualifier"
+      },
+      "ItemSource": "EItemSource::SpecialItem",
+      "DeckCodeID": "0w",
+      "MainTexture": {
+        "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Kards_Set_-_Championship_2022a_po2.Kards_Set_-_Championship_2022a_po2",
+        "SubPathString": ""
+      },
+      "VariantTextures": [
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Kards_Set_-_Championship_2022b_po2.Kards_Set_-_Championship_2022b_po2",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Kards_Set_-_Championship_2022c_po2.Kards_Set_-_Championship_2022c_po2",
+          "SubPathString": ""
+        }
+      ],
+      "LabelBaseColor": {
+        "R": 0.040915,
+        "G": 0.022174,
+        "B": 0.008568,
+        "A": 0.0,
+        "Hex": "392917"
+      },
+      "LabelOutlineColor": {
+        "R": 0.730461,
+        "G": 0.651406,
+        "B": 0.332452,
+        "A": 1.0,
+        "Hex": "DED39C"
+      }
+    }
+  }
+]

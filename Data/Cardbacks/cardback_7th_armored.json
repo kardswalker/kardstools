@@ -1,0 +1,54 @@
+[
+  {
+    "Type": "CardBackAsset",
+    "Name": "cardback_7th_armored",
+    "Class": "UScriptClass'CardBackAsset'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "Name": "cardback_7th_armored",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "7158009D407C2CE5589259B6ED77C6A4",
+        "SourceString": "7th Armoured Division",
+        "LocalizedString": "7th Armoured Division"
+      },
+      "ItemSource": "EItemSource::PurchasableItem",
+      "DeckCodeID": "0b",
+      "factions": [
+        "EFactionEnum::Britain"
+      ],
+      "MainTexture": {
+        "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Kards_GBR_A.Kards_GBR_A",
+        "SubPathString": ""
+      },
+      "VariantTextures": [
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Kards_GBR_B.Kards_GBR_B",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Kards_GBR_C.Kards_GBR_C",
+          "SubPathString": ""
+        }
+      ],
+      "icon": {
+        "AssetPathName": "/Game/Assets/Textures/StoreIcons/cardback/7th_Armoured_Div_simplified_icon.7th_Armoured_Div_simplified_icon",
+        "SubPathString": ""
+      },
+      "LabelBaseColor": {
+        "R": 0.212231,
+        "G": 0.215861,
+        "B": 0.127438,
+        "A": 0.0,
+        "Hex": "7F8064"
+      },
+      "LabelOutlineColor": {
+        "R": 0.799103,
+        "G": 0.701102,
+        "B": 0.40724,
+        "A": 1.0,
+        "Hex": "E7DAAB"
+      }
+    }
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "Type": "CardBackAsset",
+    "Name": "cardback_catalyst",
+    "Class": "UScriptClass'CardBackAsset'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "Name": "cardback_catalyst",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "125AEACC46E6075CC16E02817ABA479F",
+        "SourceString": "Kards Catalyst",
+        "LocalizedString": "Kards Catalyst"
+      },
+      "ItemSource": "EItemSource::PurchasableItem",
+      "DeckCodeID": "0n",
+      "MainTexture": {
+        "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Catalys_b_po2.Catalys_b_po2",
+        "SubPathString": ""
+      },
+      "VariantTextures": [
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Catalyst_a_po2.Catalyst_a_po2",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/Catalyst_c_po2.Catalyst_c_po2",
+          "SubPathString": ""
+        }
+      ],
+      "icon": {
+        "AssetPathName": "/Game/Assets/Textures/StoreIcons/cardback/cardback_catalyst.cardback_catalyst",
+        "SubPathString": ""
+      },
+      "LabelBaseColor": {
+        "R": 0.442708,
+        "G": 0.146349,
+        "B": 0.055339,
+        "A": 1.0,
+        "Hex": "B26B42"
+      },
+      "LabelOutlineColor": {
+        "R": 0.051541,
+        "G": 0.098958,
+        "B": 0.091164,
+        "A": 1.0,
+        "Hex": "405855"
+      }
+    }
+  }
+]

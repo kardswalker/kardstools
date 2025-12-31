@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "CardBackAsset",
+    "Name": "cardback_brothers_in_arms",
+    "Class": "UScriptClass'CardBackAsset'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "Name": "cardback_brothers_in_arms",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "513A0ADA4750084EC375CEAFE0858D62",
+        "SourceString": "Brothers in Arms",
+        "LocalizedString": "Brothers in Arms"
+      },
+      "ItemSource": "EItemSource::PurchasableItem",
+      "DeckCodeID": "0m",
+      "MainTexture": {
+        "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/BiA_set_cardback_Cx512.BiA_set_cardback_Cx512",
+        "SubPathString": ""
+      },
+      "VariantTextures": [
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/BiA_set_cardback_Cx512.BiA_set_cardback_Cx512",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/Assets/Textures/cards/CardBacks/BiA_set_cardback_Cx512.BiA_set_cardback_Cx512",
+          "SubPathString": ""
+        }
+      ],
+      "icon": {
+        "AssetPathName": "/Game/Assets/Textures/StoreIcons/cardback/BiA_set_cardback_icon.BiA_set_cardback_icon",
+        "SubPathString": ""
+      }
+    }
+  }
+]
