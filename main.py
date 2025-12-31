@@ -192,17 +192,17 @@ if choice == "1":
             safe_put(f'https://kards.live.1939api.com/players/{pid}/dailymissions', headers=headers_auth, json={"action":"finish","id": mission.get("id")})
             print(f'任务 {mission.get("mission_id")} 已完成！')
             exit(0)
-elif choice == "2":
-    with open('config.json', 'r') as f:
-        config = json.load(f)
-    JWT = config.get('jwt', '')
-    uid = config.get('uid', '')
-    pid = config.get('pid', '')
-
-    headers_auth = None
-    if JWT:
-        headers_auth = dict(default_headers)
-        headers_auth['Authorization'] = f'JWT {JWT}'
+elif choice == "2":  
+        with open('config.json', 'r') as f:
+            config = json.load(f)
+        
+        config['jwt'] = ''
+        config['uid'] = ''
+        config['pid'] = ''
+        
+        with open('config.json', 'w') as f:
+            json.dump(config, f, indent=4)
+        print("已退出登录。")
 elif choice == "0":
     sys.exit(0)
 elif choice == "3":
